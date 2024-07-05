@@ -1,0 +1,58 @@
+body {
+	padding-top: 50px;
+	color: #959595;
+	font-family: sans-serif;
+	
+	}
+	
+h1, h2, h3, h4, h5, h6 {
+	color: black;
+	font-family: sans-serif;
+	}
+	
+.feature {
+	background: yellowgreen linear-gradient(to bottom, greenyellow, olivedrab);
+	color: black;
+	font-family: sans-serif;
+	}
+
+#feature-carousel {
+	min-height: 400px;
+	}
+
+#feature-carousel img {
+	margin: 0 auto;
+	}
+		
+.article-intro {
+    margin-bottom: 25px;
+	font-family: sans-serif;
+}
+
+.footer-blurb {
+    padding: 30px 0;
+    background-color: yellowgreen;
+    color: black;
+	
+}
+    
+.footer-blurb-item {
+    padding: 30px;
+    }
+ 
+.small-print {
+	background-color: #fff;
+	padding: 30px 0;
+	font-family: sans-serif;
+}
+
+.feature,
+.page-intro,
+.article-intro,
+.small-print {
+	text-align: center;
+	font-family: sans-serif;
+	}
+
+
+	
